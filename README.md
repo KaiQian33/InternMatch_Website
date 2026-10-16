@@ -36,7 +36,7 @@ Students often struggle to identify internship opportunities that match their sk
 InternMatch aims to simplify this process by bringing internship discovery, AI-assisted job matching, and career preparation resources together in one platform.
 
 ## 👥 Project Contributors
-My beloved ([JE-lim-lim](https://github.com/JE-lim-lim)) <3 and me ([KaiQian33](https://github.com/KaiQian33) aka [panpanpan3333](https://github.com/panpanpan3333))
+My beloved [JE-lim-lim](https://github.com/JE-lim-lim) <3 and me ([KaiQian33](https://github.com/KaiQian33) aka [panpanpan3333](https://github.com/panpanpan3333))
 
 
 This project was developed through collaboration, learning, and the application of web development and AI-related technologies.
